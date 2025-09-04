@@ -1,0 +1,3 @@
+/data/software/PopLDdecay-3.41/bin/PopLDdecay -InVCF /data2/wild.genome_compare/DDX_analysis/paper_plot/p5_jin_ku_population/part_xizang_jinqiao_kuqiao_dir/xizang_jinqiao_kuqiao.snp.id.vcf.gz -OutStat FD.snp.ld.gz -SubPop FD.list
+/data/software/PopLDdecay-3.41/bin/PopLDdecay -InVCF /data2/wild.genome_compare/DDX_analysis/paper_plot/p5_jin_ku_population/part_xizang_jinqiao_kuqiao_dir/xizang_jinqiao_kuqiao.snp.id.vcf.gz -OutStat FTW1.snp.ld.gz -SubPop FTW1.list
+/data/software/PopLDdecay-3.41/bin/PopLDdecay -InVCF /data2/wild.genome_compare/DDX_analysis/paper_plot/p5_jin_ku_population/part_xizang_jinqiao_kuqiao_dir/xizang_jinqiao_kuqiao.snp.id.vcf.gz -OutStat FTW2.snp.ld.gz -SubPop FTW2.list

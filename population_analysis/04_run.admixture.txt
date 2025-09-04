@@ -1,0 +1,8 @@
+admixture -j10 --cv merge_outgroup_jin_DDX_tian_sample.snp_indep.prune.in.bed 1|tee logK1.out
+admixture -j10 --cv merge_outgroup_jin_DDX_tian_sample.snp_indep.prune.in.bed 2|tee logK2.out
+admixture -j10 --cv merge_outgroup_jin_DDX_tian_sample.snp_indep.prune.in.bed 3|tee logK3.out
+admixture -j10 --cv merge_outgroup_jin_DDX_tian_sample.snp_indep.prune.in.bed 4|tee logK4.out
+admixture -j10 --cv merge_outgroup_jin_DDX_tian_sample.snp_indep.prune.in.bed 5|tee logK5.out
+admixture -j10 --cv merge_outgroup_jin_DDX_tian_sample.snp_indep.prune.in.bed 6|tee logK6.out
+admixture -j10 --cv merge_outgroup_jin_DDX_tian_sample.snp_indep.prune.in.bed 7|tee logK7.out
+admixture -j10 --cv merge_outgroup_jin_DDX_tian_sample.snp_indep.prune.in.bed 8|tee logK8.out
